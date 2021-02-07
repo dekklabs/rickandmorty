@@ -1,5 +1,6 @@
-# Prueba técnia UTP
+# Prueba técnica
 
-foto, nombre, precio, descripción,
-
-botón "agregar"
+* Consumi API tema "Rick and Morty"
+* mostrar data en cards
+* agregar al carito
+* elimianr items del carrito

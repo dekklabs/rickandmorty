@@ -1,0 +1,7 @@
+.existe {
+    display: block !important;
+}
+
+.noexiste {
+    display: none !important;
+}

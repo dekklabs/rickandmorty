@@ -1,0 +1,17 @@
+.carta {
+    width: 240px;
+    transition: all .3s ease-in;
+}
+
+.carta img {
+    cursor: pointer;
+}
+
+.carta:hover {
+    box-shadow: 1px 2px 14px 4px #ece6e6;
+    transition: all .3s ease-in;
+}
+
+.vistaprevia {
+    cursor: pointer;
+}

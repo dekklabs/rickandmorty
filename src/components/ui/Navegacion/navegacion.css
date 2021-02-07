@@ -1,0 +1,29 @@
+.enlace {
+    position: relative;
+}
+.badgeitem {
+    position: absolute;
+    top: 1px;
+    right: 0;
+}
+
+.dropdown-menu {
+    left: -290px !important;
+    min-width: 25rem !important;
+}
+
+.cartlist {
+    list-style: none;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+.cartlist li {
+    border-bottom: 1px solid #e4dfdf;
+    padding-bottom: 8px;
+}
+
+.cartlist li img {
+    margin-right: 10px;
+    border-radius: 5px;
+}

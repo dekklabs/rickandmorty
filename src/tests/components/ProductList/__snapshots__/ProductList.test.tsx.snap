@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en Card component Debe de agregarse un producto 1`] = `ShallowWrapper {}`;
+
+exports[`Pruebas en ProductList component Debe mostrar <ProductList /> 1`] = `ShallowWrapper {}`;
